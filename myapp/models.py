@@ -7,7 +7,7 @@ from django.db import models
 
 
 # Define the database URL
-DATABASE_URL = "mysql+mysqlconnector://root:saikrishna%40GQ123@localhost/newversion"
+DATABASE_URL = "mysql+mysqlconnector://root:pass@localhost/newversion"
 
 engine = create_engine(DATABASE_URL, echo=True)
 
