@@ -44,6 +44,23 @@ Home Screen
 JWT Login
 <img width="1440" alt="Screenshot 2025-02-22 at 11 00 11 AM" src="https://github.com/user-attachments/assets/a2d31375-abf7-48f6-8bb6-78b14033eeb8" />
 
+Department Table 
+<img width="1440" alt="Screenshot 2025-02-22 at 10 59 50 AM" src="https://github.com/user-attachments/assets/65e592b2-93a0-482b-b1c8-2294e23d6555" />
+
+API Deparetmentlist
+<img width="1440" alt="Screenshot 2025-02-22 at 11 00 41 AM" src="https://github.com/user-attachments/assets/abdd7288-802e-46e8-950a-ead936658037" />
+
+
+
+
+<img width="1440" alt="Screenshot 2025-02-22 at 11 00 54 AM" src="https://github.com/user-attachments/assets/187bc6ef-f9a9-44d0-8de0-f09d0ef45f56" />
+
+
+
+Employee Table
+
+
+<img width="1440" alt="Screenshot 2025-02-22 at 10 59 45 AM" src="https://github.com/user-attachments/assets/e8d8149b-c10c-40fb-9824-89f85cedb6c0" />
 
 
 
