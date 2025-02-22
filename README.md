@@ -34,3 +34,18 @@ This project is a **Django-based CRUD application** that integrates **MySQL** fo
 ## **Demo** 🛠
 
 https://www.awesomescreenshot.com/video/36887544?key=c74c0675f47003c3daed2bbce934e71d
+
+
+## **ScreenShots 📸** 
+
+Home Screen
+<img width="1440" alt="Home Screen" src="https://github.com/user-attachments/assets/d35d3015-cd8e-4def-bc9d-a179bf9a6ffa" />
+
+JWT Login
+<img width="1440" alt="Screenshot 2025-02-22 at 11 00 11 AM" src="https://github.com/user-attachments/assets/a2d31375-abf7-48f6-8bb6-78b14033eeb8" />
+
+
+
+
+
+
