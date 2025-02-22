@@ -1,0 +1,8 @@
+<h1>Create User</h1>
+<form method="post">
+    {% csrf_token %}
+    Username: <input type="text" name="username"><br>
+    Email: <input type="email" name="email"><br>
+    Age: <input type="number" name="age"><br>
+    <button type="submit">Create</button>
+</form>

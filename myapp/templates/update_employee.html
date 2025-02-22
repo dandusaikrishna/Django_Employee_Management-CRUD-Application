@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Employee</title>
+</head>
+<body>
+    <h1>Update Employee</h1>
+    <form method="post">
+        {% csrf_token %}
+        Name: <input type="text" name="name" value="{{ employee.name }}"><br>
+        Department ID: <input type="number" name="department_id" value="{{ employee.department_id }}"><br>
+        <button type="submit">Update Employee</button>
+    </form>
+</body>
+</html>
