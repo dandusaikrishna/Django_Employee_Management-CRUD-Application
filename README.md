@@ -31,6 +31,6 @@ This project is a **Django-based CRUD application** that integrates **MySQL** fo
 2. **Run Migrations**: Set up the **MySQL** database and apply migrations using Django commands.
 3. **Start the Application**: Run the development server using Django's default server.
 
+## **Demo** 🛠
 
-
-
+https://www.awesomescreenshot.com/video/36887544?key=c74c0675f47003c3daed2bbce934e71d
