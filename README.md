@@ -1,4 +1,4 @@
-# **Django CRUD Application** 🚀
+# **Django CRUD Application** 🚀 
 
 This project is a **Django-based CRUD application** that integrates **MySQL** for the database and **SQLAlchemy** for object-relational mapping (ORM). It is designed to manage **employees** and **departments** efficiently while optimizing performance through **Redis caching**.
 
